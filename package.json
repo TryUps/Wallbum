@@ -1,0 +1,31 @@
+{
+  "name": "wallbum",
+  "version": "1.0.0-alpha.1",
+  "description": "Wallbum Wallpapers Album",
+  "main": "wallbum.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TryUps/Wallbum.git"
+  },
+  "keywords": [
+    "wallpapers",
+    "album",
+    "wall",
+    "paper",
+    "mac",
+    "windows",
+    "linux"
+  ],
+  "author": "TryUps Inc.",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/TryUps/Wallbum/issues"
+  },
+  "homepage": "https://github.com/TryUps/Wallbum#readme",
+  "dependencies": {
+    "electron": "^7.0.0-beta.3"
+  }
+}
