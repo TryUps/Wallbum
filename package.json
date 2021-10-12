@@ -26,6 +26,6 @@
   },
   "homepage": "https://github.com/TryUps/Wallbum#readme",
   "dependencies": {
-    "electron": "^7.0.0-beta.3"
+    "electron": "^11.5.0"
   }
 }
